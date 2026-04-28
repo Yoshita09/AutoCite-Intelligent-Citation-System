@@ -1,0 +1,158 @@
+📄 METADATA
+Title: Artificial intelligence and social media on academic performance
+Authors: Muhammad Farrukh Shahzad, Shuo Xu, Weng Marc Lim, Xingbing Yang, Qasim Raza Khan
+Year: 2024
+Keywords: academic, artificial, impact, intelligence, media
+
+Abstract:
+article under the CC BY license (http://creativecommons.org/licenses/by/4.0/). Research article Artificial intelligence and social media on academic performance and mental well-being: Student perceptions of positive impact in
+
+Citations Found: 145
+Valid: 145 | Invalid: 0
+
+VALID CITATIONS:
+[1] -> [1] B. Hu, Y. Mao, K.J. Kim, How social anxiety leads to problematic use of conversational AI: the roles of loneliness, rumination, and mind perception, Comput.
+[2] -> [2] H. Edward, et al., Artificial intelligence and obesity management : an Obesity Medicine Association (OMA) clinical practice statement (CPS) 2023, Obes. Pillars
+[3] -> [3] P.P. Ray, ChatGPT: a comprehensive review on background, applications, key challenges, bias, ethics, limitations and future scope, Internet Things Cyber-
+[4] -> [4] H. Yu, Y. Guo, Generative artificial intelligence empowers educational reform: current status, issues, and prospects, Front. Educ. 8 (November 2022) (2023)
+[5] -> [5] E. Dimitriadou, A. Lanitis, A critical evaluation, challenges, and future perspectives of using artificial intelligence and emerging technologies in smart
+[6] -> [6] C. Koyuturk, et al., Developing Effective Educational Chatbots with ChatGPT Prompts: Insights from Preliminary Tests in a Case Study on Social Media Literacy
+[7] -> [7] F. Ouyang, M. Wu, L. Zheng, L. Zhang, P. Jiao, Integration of artificial intelligence performance prediction and learning analytics to improve student learning
+[8] -> [8] A. Tlili, et al., What if the devil is my guardian angel: ChatGPT as a case study of using chatbots in education, Smart Learn. Environ 10 (1) (2023), https://doi.
+[9] -> [9] J.R. Sanchez Reina, E. Theophilou, D. Ognibene, H.-L. Davinia, ‘Shall We Rely on Bots?’ Students’ Adherence to the Integration of ChatGPT in the Classroom,
+[10] -> [10] E. Whelan, A.K.M.N. Islam, S. Brooks, Applying the SOBC paradigm to explain how social media overload affects academic performance, Comput. Educ. 143
+[11] -> [11] E. Whelan, W. Golden, M. Tarafdar, How technostress and self-control of social networking sites affect academic achievement and wellbeing, Internet Res. 32
+[12] -> [12] Q. Andr´e, et al., Consumer choice and autonomy in the age of artificial intelligence and big data, Cust. Needs Solut. 5 (1–2) (2018) 28–37, https://doi.org/
+[13] -> [13] M. Chassignol, A. Khoroshavin, A. Klimova, A. Bilyatdinova, Artificial Intelligence trends in education: a narrative overview, Procedia Comput. Sci. 136 (2018)
+[14] -> [14] T. Alqahtani, et al., The emergent role of artificial intelligence, natural learning processing, and large language models in higher education and research, Res.
+[15] -> [15] E. Alwagait, B. Shahzad, S. Alim, Impact of social media usage on students academic performance in Saudi Arabia, Comput. Human Behav. 51 (2015)
+[16] -> [16] W.W.F. Lau, Effects of social media usage and social media multitasking on the academic performance of university students, Comput. Human Behav. 68
+[17] -> [17] F. Giunchiglia, M. Zeni, E. Gobbi, E. Bignotti, I. Bison, Mobile social media usage and academic performance, Comput. Human Behav. 82 (May 2018) 177–185,
+[18] -> [18] W. Craig, et al., Social media use and cyber-bullying: a cross-national analysis of young people in 42 countries, J. Adolesc. Heal. 66 (6) (2020) S100–S108,
+[19] -> [19] G. Delanerolle, et al., Artificial intelligence: a rapid case for advancement in the personalization of Gynaecology/Obstetric and Mental Health care, Women’s
+[20] -> [20] D. Brougham, J. Haar, Smart technology, artificial intelligence, robotics, and algorithms (STARA): employees’ perceptions of our future workplace, J. Manag.
+[21] -> [21] M. Guilmette, K. Mulvihill, R. Villemaire-Krajden, E.T. Barker, Past and present participation in extracurricular activities is associated with adaptive self-
+[22] -> [22] M. Luo, L. Zhao, B. Lyu, Exploring the fuzzy integrated assessment of college students’ education for innovative entrepreneurship under the background of
+[23] -> [23] F. Ouyang, L. Zheng, P. Jiao, Artificial intelligence in online higher education: a systematic review of empirical research from 2011 to 2020, Springer US 27 (6)
+[24] -> [24] J. Li, W. Che, Challenges and coping strategies of online learning for college students in the context of COVID-19: a survey of Chinese universities, Sustain.
+[25] -> [25] M.A. Qureshi, A. Khaskheli, J.A. Qureshi, S.A. Raza, S.Q. Yousufi, Factors affecting students’ learning performance through collaborative learning and
+[26] -> [26] I. Barth Vedøy, S.A. Anderssen, H.E. Tjomsland, K.R. Skulberg, M. Thurston, Physical activity, mental health and academic achievement: a cross-sectional
+[27] -> [27] I. Dekker, E.M. De Jong, M.C. Schippers, M. De Bruijn-Smolders, A. Alexiou, B. Giesbers, Optimizing students’ mental health and academic performance: AI-
+[28] -> [28] S.I.N.W. Abdullah, K. Arokiyasamy, S.L. Goh, A.J. Culas, N.M.A. Manaf, University students’ satisfaction and future outlook towards forced remote learning
+[29] -> [29] F. Fui-Hoon Nah, R. Zheng, J. Cai, K. Siau, L. Chen, Generative AI and ChatGPT: applications, challenges, and AI-human collaboration, J. Inf. Technol. Case
+[30] -> [30] K.O. Boahene, J. Fang, F. Sampong, Social media usage and tertiary students’ academic performance: examining the influences of academic self-efficacy and
+[31] -> [31] S. Alturki, L. Cohausz, H. Stuckenschmidt, Predicting Master’s students’ academic performance: an empirical study in Germany, Smart Learn. Environ 9 (1)
+[32] -> [32] A.Y. Yu, S.W. Tian, D. Vogel, R. Chi-Wai Kwok, Can learning be virtually boosted? An investigation of online social networking impacts, Comput. Educ. 55 (4)
+[33] -> [33] F. Ali, P.K. Nair, K. Hussain, An assessment of students’ acceptance and usage of computer supported collaborative classrooms in hospitality and tourism
+[34] -> [34] S. Jia, O. Khassawneh, T. Mohammad, Y. Cao, Knowledge-oriented leadership and project employee performance: the roles of organisational learning
+[35] -> [35] S.A. Naser, I. Zaqout, M.A. Ghosh, R. Atallah, E. Alajrami, Predicting student performance using artificial neural network: in the faculty of engineering and
+[36] -> [36] Z. Ali, B. Gongbing, A. Mehreen, Understanding and predicting academic performance through cloud computing adoption: a perspective of technology
+[37] -> [37] R. Kaliisa, B. Rienties, A.I. Mørch, A. Kluge, Social learning analytics in computer-supported collaborative learning environments: a systematic review of
+[38] -> [38] P. Grover, A.K. Kar, Y.K. Dwivedi, Understanding Artificial Intelligence Adoption in Operations Management: Insights from the Review of Academic Literature
+[39] -> [39] J.R. Hill, L. Song, R.E. West, Social learning theory and web-based learning environments: a review of research and discussion of implications, Int. J.
+[40] -> [40] X. Ma, Y. Huo, Are users willing to embrace ChatGPT? Exploring the factors on the acceptance of chatbots from the perspective of AIDUA framework, Technol.
+[41] -> [41] M.M. Alamri, M.A. Almaiah, W.M. Al-Rahmi, Social media applications affecting students’ academic performance: a model developed for sustainability in
+[42] -> [42] H. Yu, Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching, Front. Psychol. 14 (2023), https://doi.
+[43] -> [43] O. Zawacki-Richter, V.I. Marín, M. Bond, F. Gouverneur, Systematic review of research on artificial intelligence applications in higher education – where are
+[44] -> [44] M.L. Tsai, C.W. Ong, C.L. Chen, Exploring the use of large language models (LLMs) in chemical engineering education: building core course problem models
+[45] -> [45] S.Z. Salas-Pilco, Y. Yang, Artificial intelligence applications in Latin American higher education: a systematic review, Int. J. Educ. Technol. High. Educ. 19 (1)
+[46] -> [46] H. Pang, Determining the influence of depressive mood and self-disclosure on problematic mobile app use and declined educational attainment: insight from
+[47] -> [47] A.S. Arunachalam, T. Velmurugan, Analyzing student performance using evolutionary artificial neural network algorithm, Int. J. Eng. Technol. 7 (2.26) (2018)
+[48] -> [48] N.Z. Zacharis, Predicting student academic performance in blended learning using artificial neural networks, Int. J. Artif. Intell. Appl. 7 (5) (2016) 17–29,
+[49] -> [49] F.M. Dawoodbhoy, et al., AI in patient flow: applications of artificial intelligence to improve patient flow in NHS acute mental health inpatient units, Heliyon 7
+[50] -> [50] M. Javaid, A. Haleem, R. Pratap, ChatGPT for healthcare services : an emerging stage for an innovative perspective, BenchCouncil Trans. Benchmarks, Stand.
+[51] -> [51] E.E. Lee, et al., Artificial intelligence for mental health care: clinical applications, barriers, facilitators, and artificial wisdom, Biol. Psychiatry Cogn. Neurosci.
+[52] -> [52] A. Cerasa, A. Gaggioli, F. Marino, G. Riva, G. Pioggia, The promise of the metaverse in mental health: the new era of MEDverse, Heliyon 8 (11) (2022) e11762,
+[53] -> [53] G. Rubeis, iHealth: the ethics of artificial intelligence and big data in mental healthcare, Internet Interv 28 (August 2021) (2022) 100518, https://doi.org/
+[54] -> [54] E. Theophilou, et al., Learning to prompt in the classroom to understand AI limits: a pilot study, Lect. Notes Comput. Sci. 14318 LNAI (July) (2023) 481–496,
+[55] -> [55] M.J. Liberatore, W.P. Wagner, Virtual, mixed, and augmented reality: a systematic review for immersive systems research, Virtual Real. 25 (3) (2021)
+[56] -> [56] D. Hee Lee, S.N. Yoon, Application of artificial intelligence-based technologies in the healthcare industry: opportunities and challenges, Int. J. Environ. Res.
+[57] -> [57] M.M.D. Alam, M.Z. Alam, S.A. Rahman, S.K. Taghizadeh, Factors influencing mHealth adoption and its impact on mental well-being during COVID-19
+[58] -> [58] R.L. Wilson, et al., Artificial intelligence: an eye cast towards the mental health nursing horizon, Int. J. Ment. Health Nurs. (July 2022) (2023) 938–944,
+[59] -> [59] A. Johnson, et al., A review and agenda for examining how technology-driven changes at work will impact workplace mental health and employee well-being,
+[60] -> [60] F. Giunchiglia, M. Zeni, E. Gobbi, E. Bignotti, I. Bison, Mobile social media usage and academic performance, Comput. Human Behav. 82 (2018) 177–185,
+[61] -> [61] M. Shafiq, K. Parveen, Social media usage: analyzing its effect on academic performance and engagement of higher education students, Int. J. Educ. Dev. 98
+[62] -> [62] M.S.I. Alshuaibi, A.S.I. Alshuaibi, F.M. Shamsudin, D.A. Arshad, Use of social media, student engagement, and academic performance of business students in
+[63] -> [63] A. Malik, A. Dhir, P. Kaur, A. Johri, Correlates of social media fatigue and academic performance decrement: a large cross-sectional study, Inf. Technol. People
+[64] -> [64] H. Pang, Connecting mobile social media with psychosocial well-being: understanding relationship between WeChat involvement, network characteristics,
+[65] -> [65] B.A. Barton, K.S. Adams, B.L. Browne, M.C. Arrastia-Chisholm, The effects of social media usage on attention, motivation, and academic performance, Act.
+[66] -> [66] C. Pallavi Gupta, B. Singh, T. Marwaha, Relationship between social media and academic performance in distance education, Univers. J. Educ. Res. 1 (3)
+[67] -> [67] E. Asante, E.M. Martey, Impact of social media usage on academic performance of tertiary institution students, J. Adv. Res. Bus. Manag. Account. (ISSN 2456-
+[68] -> [68] I.U. Khan, Z. Hameed, Y. Yu, S.U. Khan, Assessing the determinants of flow experience in the adoption of learning management systems: the moderating role of
+[69] -> [69] N. Annamalai, B. Foroughi, M. Iranmanesh, S. Buathong, Needs and Facebook addiction: how important are psychological well-being and performance-
+[70] -> [70] M. Conway, D. O’Connor, Social media, big data, and mental health: current advances and ethical implications, Curr. Opin. Psychol. 9 (2016) 77–82, https://
+[71] -> [71] S. Xu, Z. Wang, P. David, Social media multitasking (SMM) and well-being: existing evidence and future directions, Curr. Opin. Psychol. 47 (2022) 101345,
+[72] -> [72] S. Ponnusamy, M. Iranmanesh, B. Foroughi, S.S. Hyun, Drivers and outcomes of Instagram addiction: psychological well-being as moderator, Comput. Human
+[73] -> [73] E. Kross, P. Verduyn, G. Sheppes, C.K. Costello, J. Jonides, O. Ybarra, Social media and well-being: pitfalls, progress, and next steps, Trends Cogn. Sci. 25 (1)
+[74] -> [74] J.M. Twenge, G.N. Martin, Gender differences in associations between digital media use and psychological well-being: evidence from three large datasets,
+[75] -> [75] P. Best, R. Manktelow, B. Taylor, Online communication, social media and adolescent wellbeing: a systematic narrative review, Child. Youth Serv. Rev. 41
+[76] -> [76] A. Luqman, S. Talwar, A. Masood, A. Dhir, Does enterprise social media use promote employee creativity and well-being? J. Bus. Res. 131 (November 2020)
+[77] -> [77] S. Bano, W. Cisheng, A.N. Khan, N.A. Khan, WhatsApp use and student’s psychological well-being: role of social capital and social integration, Child. Youth
+[78] -> [78] X. Fan, N. Deng, X. Dong, Y. Lin, J. Wang, Do others’ self-presentation on social media influence individual’s subjective well-being? A moderated mediation
+[79] -> [79] J. Gerson, A.C. Plagnol, P.J. Corr, Subjective well-being and social media use: do personality traits moderate the impact of social comparison on Facebook?
+[80] -> [80] H. Bruggeman, A. Van Hiel, G. Van Hal, S. Van Dongen, Does the use of digital media affect psychological well-being? An empirical test among children aged 9
+[81] -> [81] B.W. Hardy, J. Castonguay, The moderating role of age in the relationship between social media use and mental well-being: an analysis of the 2016 General
+[82] -> [82] E.E. Rasmussen, N. Punyanunt-Carter, J.R. LaFreniere, M.S. Norman, T.G. Kimball, The serially mediated relationship between emerging adults’ social media
+[83] -> [83] S.M. Coyne, A.A. Rogers, J.D. Zurcher, L. Stockdale, M. Booth, Does time spent using social media impact mental health?: an eight year longitudinal study,
+[84] -> [84] O. Allal-Ch´erif, A. Yela Ar´anega, R. Casta˜no S´anchez, Intelligent recruitment: how to identify, select, and retain talents from around the world using artificial
+[85] -> [85] A. Muro, J. Soler, `A. Cebolla, R. Cladellas, A positive psychological intervention for failing students: does it improve academic achievement and motivation? A
+[86] -> [86] M. Samaha, N.S. Hawi, Relationships among smartphone addiction, stress, academic performance, and satisfaction with life, Comput. Human Behav. 57 (2016)
+[87] -> [87] M. Boer, G.W.J.M. Stevens, C. Finkenauer, M.E. de Looze, R.J.J.M. van den Eijnden, Social media use intensity, social media use problems, and mental health
+[88] -> [88] O.H. Embarak, Internet of Behaviour (IoB)-based AI models for personalized smart education systems, Procedia Comput. Sci. 203 (2022) 103–110, https://doi.
+[89] -> [89] P.D. Tomporowski, C.L. Davis, P.H. Miller, J.A. Naglieri, Exercise and children’s intelligence, cognition, and academic achievement, Educ. Psychol. Rev. 20 (2)
+[90] -> [90] J. Zang, Y. Kim, J. Dong, New evidence on technological acceptance model in preschool education: linking project-based learning (PBL), mental health, and
+[91] -> [91] D.O. Beerbaum Dr, Generative artificial intelligence (GAI) with chat GPT for accounting – a business case, SSRN Electron. J. (2023) 1–14, https://doi.org/
+[92] -> [92] Kinshuk, N.S. Chen, I.L. Cheng, S.W. Chew, Evolution is not enough: revolutionizing current learning environments to smart learning environments, Int. J.
+[93] -> [93] J.I. Criado, J.R. Gil-Garcia, Creating public value through smart technologies and strategies: from digital services to artificial intelligence and beyond, Int. J.
+[94] -> [94] H. Lu, Y. Li, M. Chen, H. Kim, S. Serikawa, Brain intelligence: go beyond artificial intelligence, Mob. Networks Appl 23 (2) (2018) 368–375, https://doi.org/
+[95] -> [95] M. Smart, J. Felton, C. Meghea, Z. Buchalski, L. Maschino, R. Sadler, Is a school’s neighborhood physical disorder related to its academic outcomes? Child
+[96] -> [96] A. Al-Marghilani, Artificial intelligence-enabled cyberbullying-free online social networks in smart cities, Int. J. Comput. Intell. Syst. 15 (1) (2022) 1–13,
+[97] -> [97] C. Martinez-Perez, C. Alvarez-Peregrina, C. Villa-Collar, M.´A. S´anchez-Tena, Current state and future trends: a citation network analysis of the academic
+[98] -> [98] S.S. Biswas, Role of chat GPT in public health, Ann. Biomed. Eng. 51 (5) (2023) 868–869, https://doi.org/10.1007/s10439-023-03172-7.
+[99] -> [99] L. Lei, J. Li, W. Li, Assessing the role of artificial intelligence in the mental healthcare of teachers and students, Soft Comput. 5 (2023), https://doi.org/
+[100] -> [100] D. Fonseca, N. Martí, E. Redondo, I. Navarro, A. S´anchez, Relationship between student profile, tool use, participation, and academic performance with the use
+[101] -> [101] X. Zhang, J. Abbas, M.F. Shahzad, A. Shankar, S. Ercisli, D.C. Dobhal, Association between social media use and students ’ academic performance through
+[102] -> [102] J. Hair, C.L. Hollingsworth, A.B. Randolph, A.Y.L. Chong, An updated and expanded assessment of PLS-SEM in information systems research, Ind. Manag. Data
+[103] -> [103] J.M. Martins, M.F. Shahzad, I. Javed, Assessing the impact of workplace harassment on turnover intention : evidence from the banking industry 7 (5) (2023)
+[104] -> [104] Y. Gong, Application of virtual reality teaching method and artificial intelligence technology in digital media art creation, Ecol. Inform. 63 (March) (2021)
+[105] -> [105] K. Li, Determinants of college students’ actual use of AI-based systems: an extension of the technology acceptance model, Sustainability 15 (6) (2023) 5221,
+[106] -> [106] A. Shoufan, Exploring students’ perceptions of ChatGPT: thematic analysis and follow-up survey, IEEE Access (March) (2023) 38805–38818, https://doi.org/
+[107] -> [107] L. Zhao, Social media addiction and its impact on college students’ academic performance: the mediating role of stress, Asia-Pacific Educ. Res. 32 (1) (2023)
+[108] -> [108] E. Popescu, Providing collaborative learning support with social media in an integrated environment, World Wide Web 17 (2) (2014) 199–212, https://doi.
+[109] -> [109] Z. Hu, J. Qin, Generalizability of causal inference in observational studies under retrospective convenience sampling, Stat. Med. 37 (19) (2018) 2874–2883,
+[110] -> [110] M.F. Shahzad, S. Xu, W.M. Lim, M.F. Hasnain, S. Nusrat, Cryptocurrency awareness, acceptance, and adoption: the role of trust as a cornerstone, Humanit. Soc.
+[111] -> [111] A.M. Roscoe, D. Lang, J.N. Sheth, Follow-up methods, questionnaire length, and market differences in mail surveys, J. Mark. 39 (2) (1975) 20, https://doi.org/
+[112] -> [112] R. Ferber, Research by convenience, J. Consum. Res. 4 (June) (1977) 57–58, https://doi.org/10.1086/208679.
+[113] -> [113] M.F. Shahzad, S. Xu, O. Rehman, I. Javed, Impact of gamification on green consumption behavior integrating technological awareness , motivation , enjoyment
+[114] -> [114] M. Farrukh, S. Xu, R. Baheer, W. Ahmad, Unveiling the role of supply chain parameters approved by blockchain technology towards firm performance through
+[115] -> [115] M. Farrukh, S. Xu, W. Naveed, S. Nusrat, Investigating the impact of artificial intelligence on human resource functions in the health sector of China : a
+[116] -> [116] J.F. Hair, C.M. Ringle, M. Sarstedt, Partial least squares structural equation modeling: rigorous applications, better results and higher acceptance, Long Range
+[117] -> [117] B.J. Babin, M. Grif, J.F. H, Heresies and Sacred Cows in Scholarly Marketing Publications, 2015, pp. 1–6, https://doi.org/10.1016/j.jbusres.2015.12.001.
+[118] -> [118] P.M. Podsakoff, S.B. MacKenzie, J.Y. Lee, N.P. Podsakoff, Common method biases in behavioral research: a critical review of the literature and recommended
+[119] -> [119] R.P. Bagozzi, J.R. Edwards, Organ. Res. Methods (1998), https://doi.org/10.1177/109442819800100104.
+[120] -> [120] C.M. Fuller, M.J. Simmering, G. Atinc, Y. Atinc, B.J. Babin, Common methods variance detection in business research, J. Bus. Res. (2015), https://doi.org/
+[121] -> [121] C. Fornell, D.F. Larcker, Evaluating structural equation models with unobservable variables and measurement error, J. Mark. Res. 18 (1) (1981) 39, https://
+[122] -> [122] J. Henseler, C.M. Ringle, M. Sarstedt, A new criterion for assessing discriminant validity in variance-based structural equation modeling, J. Acad. Mark. Sci. 43
+[123] -> [123] G. Fassott, Handbook of partial least squares, Handb. Partial Least Squares (2010), https://doi.org/10.1007/978-3-540-32827-8.
+[124] -> [124] M.F. Shahzad, S. Xu, K.I. Khan, M.F. Hasnain, Effect of social influence , environmental awareness , and safety affordance on actual use of 5G technologies
+[125] -> [125] M.F. Shahzad, S. Xu, R. Baheer, Assessing the Factors Influencing the Intention to Use Information and Communication Technology Implementation and
+[126] -> [126] M. Sarstedt, C.M. Ringle, J.F. Hair, Partial least squares structural equation modeling, in: Handbook of Market Research, Springer, Cham, 2022, pp. 587–632,
+[127] -> [127] S. Ali, Q. Yan, H. Sun, M. Irfan, Sustainable green revolution through the development of solar power projects in Pakistan: a techno-economic analysis,
+[128] -> [128] L. Bickman, Improving mental health services: a 50-year journey from randomized experiments to artificial intelligence and precision mental health, Springer
+[129] -> [129] H. Crompton, D. Burke, Artificial intelligence in higher education: the state of the field, Int. J. Educ. Technol. High. Educ. 20 (1) (2023), https://doi.org/
+[130] -> [130] S. Santove˜na-Casal, The impact of social media participation on academic performance in undergraduate and postgraduate students, Int. Rev. Res. Open
+[131] -> [131] A.D. Oberiri, The influence of social media on academic performance of taraba state university undergraduate students, Online J. Commun. Media Technol. 7
+[132] -> [132] S.F. Mousavi Baigi, M. Sarbaz, K. Ghaddaripouri, M. Ghaddaripouri, A.S. Mousavi, K. Kimiafar, Attitudes, knowledge, and skills towards artificial intelligence
+[133] -> [133] J.J. Al-Menayes, Social media use, engagement and addiction as predictors of academic performance, Int. J. Psychol. Stud. 7 (4) (2015) 86, https://doi.org/
+[134] -> [134] K. Mirzakhani, N.J. Shoorab, A. Akbari, T. Khadivzadeh, High-risk pregnant women’s experiences of the receiving prenatal care in COVID-19 pandemic: a
+[135] -> [135] W.M. Al-Rahmi, A.M. Zeki, A model of using social media for collaborative learning to enhance learners’ performance on learning, J. King Saud Univ. -
+[136] -> [136] H. Scott, H.C. Woods, Understanding links between social media use, sleep and mental health: recent progress and current challenges, Curr. Sleep Med Reports
+[137] -> [137] L. Young, D.C. Kolubinski, D. Frings, Attachment style moderates the relationship between social media use and user mental health and wellbeing, Heliyon 6
+[138] -> [138] H.E. Sadagheyani, F. Tatari, Investigating the role of social media on mental health, Ment. Heal. Soc. Incl. 25 (1) (2021) 41–51, https://doi.org/10.1108/
+[139] -> [139] M.A. Bekalu, R.F. McCloud, K. Viswanath, Association of social media use with social well-being, positive mental health, and self-rated health: disentangling
+[140] -> [140] O. Ulvi, A. Karamehic-Muratovic, M. Baghbanzadeh, A. Bashir, J. Smith, U. Haque, Social media use and mental health: a global analysis, Epidemiologia 3 (1)
+[141] -> [141] A.M. Hilal, B.S. Alfurhood, F.N. Al-Wesabi, M.A. Hamza, M. Al Duhayyim, H.G. Iskandar, Artificial intelligence based sentiment analysis for health crisis
+[142] -> [142] J.C. Ruthig, T.L. Haynes, R.H. Stupnisky, R.P. Perry, Perceived academic control: mediating the effects of optimism and social support on college students’
+[143] -> [143] T. Clarke, Children’s wellbeing and their academic achievement: the dangerous discourse of ‘trade-offs’ in education, Theory Res. Educ. 18 (3) (2020)
+[144] -> [144] S. Graham, et al., Artificial intelligence for mental health and mental illnesses: an overview, Curr. Psychiatry Rep. 21 (11) (2019), https://doi.org/10.1007/
+[145] -> [145] D. Richards, P.H.Y. Caldwell, H. Go, Impact of social media on the health of children and young people, J. Paediatr. Child Health 51 (12) (Dec. 2015)
