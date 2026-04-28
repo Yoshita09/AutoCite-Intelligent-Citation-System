@@ -1,6 +1,6 @@
-# 📚 AutoCite: Research Paper Citation Analyzer
+# AutoCite: Research Paper Citation Analyzer
 
-## 🚀 Project Idea
+## Project Idea
 
 AutoCite is an automated system designed to improve the quality of research documents by analyzing and validating citations.
 It extracts key information from a research paper such as metadata, references, and citations, and checks whether the citations used in the paper are valid.
@@ -9,7 +9,7 @@ The aim is to reduce manual effort in citation verification and ensure accurate 
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
 * **Python** – Core programming language
 * **Google Colab** – Development and execution
@@ -21,7 +21,7 @@ The aim is to reduce manual effort in citation verification and ensure accurate 
 
 ---
 
-## 📖 Role of Mendeley (Important)
+## Role of Mendeley (Important)
 
 Mendeley is used as a **reference management tool** in this project.
 
@@ -43,7 +43,7 @@ Mendeley is used as a **reference management tool** in this project.
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 ### 1️⃣ Input
 
@@ -100,7 +100,7 @@ The system generates:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 AutoCite/
@@ -114,7 +114,7 @@ AutoCite/
 
 ---
 
-## 🎯 Key Features
+## Key Features
 
 * Automatic metadata extraction
 * Citation detection and validation
@@ -124,7 +124,7 @@ AutoCite/
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 * Convert `[1] → (Author, Year)` automatically
 * Highlight missing citations in text
@@ -134,7 +134,7 @@ AutoCite/
 
 ---
 
-## 💬 Conclusion
+## Conclusion
 
 AutoCite simplifies citation analysis by combining PDF processing, reference management, and validation techniques.
 With integration of tools like GitHub and Mendeley, it ensures better accuracy, organization, and reproducibility in research workflows.
